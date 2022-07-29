@@ -1,4 +1,4 @@
-# Filezilla add user
+# Filezilla-server add user
 
 This Powershell script can add a new user to Filezilla-server
 - use filezilla-crypt to salt and hash password
@@ -12,3 +12,5 @@ Filezilla-server running on windows
 
 ## Compatibility
  Tested with Filezilla-server v1.5.0
+ 
+ [![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
